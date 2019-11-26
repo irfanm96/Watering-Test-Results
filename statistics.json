@@ -1,0 +1,32 @@
+{
+  "Node Control" : {
+    "transaction" : "Node Control",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1464.683700000007,
+    "minResTime" : 1283.0,
+    "maxResTime" : 3663.0,
+    "pct1ResTime" : 1534.0,
+    "pct2ResTime" : 1554.0,
+    "pct3ResTime" : 1628.0,
+    "throughput" : 11.097559757584904,
+    "receivedKBytesPerSec" : 2.221679443657134,
+    "sentKBytesPerSec" : 1.6256191051149762
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1464.683700000007,
+    "minResTime" : 1283.0,
+    "maxResTime" : 3663.0,
+    "pct1ResTime" : 1534.0,
+    "pct2ResTime" : 1554.0,
+    "pct3ResTime" : 1628.0,
+    "throughput" : 11.097559757584904,
+    "receivedKBytesPerSec" : 2.221679443657134,
+    "sentKBytesPerSec" : 1.6256191051149762
+  }
+}
